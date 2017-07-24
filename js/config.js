@@ -44,13 +44,15 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/glimmering.webm";
+var l_background = "backgrounds/videos/coltnight.webm";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	
+"backgrounds/images/touhou01.jpg", 	
+"backgrounds/images/touhou02.jpg", 
+"backgrounds/images/touhou03.jpg"	
 ];
 
 /*Random background images order?*/
