@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "StalkerRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -86,9 +86,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{youtube: "nDGk-BIAKDk", name: "Brian Tyler ft. Serena McKinney – Further"},	
 ];
 
 /*Random music order?*/
