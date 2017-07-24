@@ -50,7 +50,9 @@ var l_background = "backgrounds/videos/coldnight.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	
+	"backgrounds/images/touhou01.jpg",
+	"backgrounds/images/touhou02.jpg",
+	"backgrounds/images/touhou03.jpg"
 ];
 
 /*Random background images order?*/
@@ -98,11 +100,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Наслаждайтесь игрой",
-"Спасибо что выбрали нас!",
-"Личностные оскорбления игроков запрещенны"
-"Есть вопросы? Задайте вопрос администрации!"
-"Соблюдайте правила!"
+"Enjoy the server",
+"Thanks for joining us!",
+"Did you know these backgrounds and songs are from Touhou?"
 ];
 
 /*Random message order?*/
