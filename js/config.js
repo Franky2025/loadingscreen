@@ -13,11 +13,11 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "StalkerRP";
+var l_serverName = "sleekLoad 2";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
@@ -44,12 +44,16 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/coldnight.webm";
+var l_background = "backgrounds/videos/glimmering.webm";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
-var l_bgImages = [ "backgrounds/images/touhou01.jpg",	];
+var l_bgImages = [
+	"backgrounds/images/touhou01.jpg",
+	"backgrounds/images/touhou02.jpg",
+	"backgrounds/images/touhou03.jpg"
+];
 
 /*Random background images order?*/
 var l_bgImagesRandom = true;
@@ -82,7 +86,6 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "nDGk-BIAKDk", name: "Brian Tyler ft. Serena McKinney – Further"},	
 ];
 
 /*Random music order?*/
@@ -90,19 +93,16 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 50;
+var l_musicVolume = 25;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Наслаждайтесь игрой.",
-"Мы рады, что вы выбрали нас.",
-"Соблюдайте правила!"
-"Личностные оскорбления игроков запрещенны!"
-"У вас вопросы? Обратитесь к администрации!"
-""
+"Enjoy the server",
+"Thanks for joining us!",
+"Did you know these backgrounds and songs are from Touhou?"
 ];
 
 /*Random message order?*/
