@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logo.png";
+var l_serverImage = "images/logogo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "StalkerRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
