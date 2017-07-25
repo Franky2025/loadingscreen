@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logogo.png";
+var l_serverImage = "images/logof.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
