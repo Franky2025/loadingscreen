@@ -50,21 +50,21 @@ var l_background = "";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"images/mes3.png"
-	"images/mes4.png""
-	"images/mes5.png""
-	"images/mes6.png""
-	"images/mes7.png""
-	"images/mes8.png""
-	"images/mes9.png"
-	"images/mes10.png"
-	"images/mes11.png"
-	"images/mes12.png"
-	"images/mes13.png"
-	"images/mes14.png"
-	"images/mes15.png"
-	"images/mes16.png"
-	"images/mes17.png"
+	"images/mes3.png",
+	"images/mes4.png"",
+	"images/mes5.png"",
+	"images/mes6.png"",
+	"images/mes7.png"",
+	"images/mes8.png"",
+	"images/mes9.png",
+	"images/mes10.png",
+	"images/mes11.png",
+	"images/mes12.png",
+	"images/mes13.png",
+	"images/mes14.png",
+	"images/mes15.png",
+	"images/mes16.png",
+	"images/mes17.png",
 	"images/mes18.png"
 ];
 
