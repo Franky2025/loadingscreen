@@ -44,24 +44,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background =  
-         "background/images/mes14.jpg"	
-        "background/images/mes15.jpg"	
-        "background/images/mes16.jpg"	
-        "background/images/mes18.jpg"	
-        "background/images/mes17.jpg"	
-        "background/images/mes2.jpg"	
-        "background/images/mes3.jpg"	
-        "background/images/mes5.jpg"	
-        "background/images/mes8.jpg"	
-        "background/images/mes7.jpg"	
-        "background/images/mes10.jpg"	
-        "background/images/mes6.jpg"
-        "background/images/mes9.jpg"
-        "background/images/mes11.jpg"	
-        "background/images/mes13.jpg"	
-        "background/images/mes12.jpg"
-    ;
+var l_background = "";
 
 /*(Image-background only)
 Place one or more images
@@ -115,7 +98,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
+	{},
         {youtube: "nDGk-BIAKDk", name: "Brian Tyler ft. Serena McKinney – Further "}
 ];
 
@@ -131,9 +114,6 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Наслаждайтесь игрой",
-"Спасибо что присоединяетесь к нам!!",
-"Соблюдайте правила"
 ];
 
 /*Random message order?*/
