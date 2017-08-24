@@ -50,22 +50,22 @@ var l_background = "";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/mes3.png",
-	"backgrounds/images/mes4.png"",
-	"backgrounds/images/mes5.png"",
-	"backgrounds/images/mes6.png"",
-	"backgrounds/images/mes7.png"",
-	"backgrounds/images/mes8.png"",
-	"backgrounds/images/mes9.png",
-	"backgrounds/images/mes10.png",
-	"backgrounds/images/mes11.png",
-	"backgrounds/images/mes12.png",
-	"backgrounds/images/mes13.png",
-	"backgrounds/images/mes14.png",
-	"backgrounds/images/mes15.png",
-	"backgrounds/images/mes16.png",
-	"backgrounds/images/mes17.png",
-	"backgrounds/images/mes18.png",
+	"backgrounds/images/mes3.png";
+	"backgrounds/images/mes4.png"";
+	"backgrounds/images/mes5.png"";
+	"backgrounds/images/mes6.png"";
+	"backgrounds/images/mes7.png"";
+	"backgrounds/images/mes8.png"";
+	"backgrounds/images/mes9.png";
+	"backgrounds/images/mes10.png";
+	"backgrounds/images/mes11.png";
+	"backgrounds/images/mes12.png";
+	"backgrounds/images/mes13.png";
+	"backgrounds/images/mes14.png";
+	"backgrounds/images/mes15.png";
+	"backgrounds/images/mes16.png";
+	"backgrounds/images/mes17.png";
+	"backgrounds/images/mes18.png";
 ];
 
 /*Random background images order?*/
