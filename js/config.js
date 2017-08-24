@@ -9,15 +9,15 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logb.png";
+var l_serverImage = "images/logaga.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "StalkerRP";
+var l_serverName = "Black Mesa RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
@@ -44,15 +44,28 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/stalkertruck.webm";
+var l_background = "";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/mes3.png",
+	"backgrounds/images/mes4.png"",
+	"backgrounds/images/mes5.png"",
+	"backgrounds/images/mes6.png"",
+	"backgrounds/images/mes7.png"",
+	"backgrounds/images/mes8.png"",
+	"backgrounds/images/mes9.png",
+	"backgrounds/images/mes10.png",
+	"backgrounds/images/mes11.png",
+	"backgrounds/images/mes12.png",
+	"backgrounds/images/mes13.png",
+	"backgrounds/images/mes14.png",
+	"backgrounds/images/mes15.png",
+	"backgrounds/images/mes16.png",
+	"backgrounds/images/mes17.png",
+	"backgrounds/images/mes18.png",
 ];
 
 /*Random background images order?*/
