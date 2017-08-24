@@ -50,22 +50,22 @@ var l_background = "";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"bimages/images/mes3.png";
-	"images/images/mes4.png"";
-	"images/images/mes5.png"";
-	"images/images/mes6.png"";
-	"images/images/mes7.png"";
-	"images/images/mes8.png"";
-	"images/images/mes9.png";
-	"images/images/mes10.png";
-	"images/images/mes11.png";
-	"images/images/mes12.png";
-	"images/images/mes13.png";
-	"images/images/mes14.png";
-	"images/images/mes15.png";
-	"images/images/mes16.png";
-	"images/images/mes17.png";
-	"images/images/mes18.png";
+	"bimages/images/mes3.png"
+	"images/images/mes4.png""
+	"images/images/mes5.png""
+	"images/images/mes6.png""
+	"images/images/mes7.png""
+	"images/images/mes8.png""
+	"images/images/mes9.png"
+	"images/images/mes10.png"
+	"images/images/mes11.png"
+	"images/images/mes12.png"
+	"images/images/mes13.png"
+	"images/images/mes14.png"
+	"images/images/mes15.png"
+	"images/images/mes16.png"
+	"images/images/mes17.png"
+	"images/images/mes18.png"
 ];
 
 /*Random background images order?*/
