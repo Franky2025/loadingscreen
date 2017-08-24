@@ -67,6 +67,7 @@ var l_bgImages = [
 	"images/images/mes17.png"
 	"images/images/mes18.png"
 ]
+;
 
 /*Random background images order?*/
 var l_bgImagesRandom = true;
