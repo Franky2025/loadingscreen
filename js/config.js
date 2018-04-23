@@ -13,7 +13,7 @@ var l_serverImage = "images/logaga.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Black Mesa RP";
+var l_serverName = "Brotherhood Of Steel RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
