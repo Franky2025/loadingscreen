@@ -13,7 +13,7 @@ var l_serverImage = "images/logb.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Brotherhood Of Steel RP";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -85,10 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{youtube: "iEQTwWZCuY8", name: "セプテットはディナーと共に"},
 ];
 
 /*Random music order?*/
