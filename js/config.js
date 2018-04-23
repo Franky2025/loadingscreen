@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logaga.png";
+var l_serverImage = "logb.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -65,7 +65,7 @@ var l_bgImages = [
         "background/images/mes9.jpg";
         "background/images/mes11.jpg";	
         "background/images/mes13.jpg";	
-        "background/images/mes12.jpg";
+        "background/images/mes12.jpg"
 ];
 
 /*Random background images order?*/
