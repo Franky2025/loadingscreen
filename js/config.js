@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "logb.png";
+var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Brotherhood Of Steel RP";
+var l_serverName = "sleekLoad 2";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -44,28 +44,15 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "";
+var l_background = "backgrounds/videos/glimmering.webm";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"background/images/mes14.jpg";
-        "background/images/mes15.jpg";	
-        "background/images/mes16.jpg";	
-        "background/images/mes18.jpg";	
-        "background/images/mes17.jpg"	
-        "background/images/mes2.jpg";	
-        "background/images/mes3.jpg";	
-        "background/images/mes5.jpg";	
-        "background/images/mes8.jpg";	
-        "background/images/mes7.jpg";	
-        "background/images/mes10.jpg";	
-        "background/images/mes6.jpg";
-        "background/images/mes9.jpg";
-        "background/images/mes11.jpg";	
-        "background/images/mes13.jpg";	
-        "background/images/mes12.jpg"
+	"backgrounds/images/touhou01.jpg",
+	"backgrounds/images/touhou02.jpg",
+	"backgrounds/images/touhou03.jpg"
 ];
 
 /*Random background images order?*/
@@ -98,8 +85,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{},
-        {youtube: "nDGk-BIAKDk", name: "Brian Tyler ft. Serena McKinney – Further "}
+	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
+	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
+	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
+	{youtube: "-7VeTkLKdDw", name: "Departure"}
 ];
 
 /*Random music order?*/
@@ -107,13 +96,16 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 50;
+var l_musicVolume = 25;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
+"Enjoy the server",
+"Thanks for joining us!",
+"Did you know these backgrounds and songs are from Touhou?"
 ];
 
 /*Random message order?*/
