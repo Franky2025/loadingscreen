@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logb.png";
+var l_serverImage = "images/logogo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "OverRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -84,22 +84,22 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "iEQTwWZCuY8", name: "セプテットはディナーと共に"},
+	{youtube: "w5x_9KEogM8", name: "United States National Anthem"},
 ];
 
 /*Random music order?*/
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 10;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
+"",
 "Thanks for joining us!",
 "Did you know these backgrounds and songs are from Touhou?"
 ];
