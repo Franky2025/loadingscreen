@@ -83,21 +83,21 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "QEzaie2TtPY, name: "1"},
-	{youtube: "Kxf96KNYZjs, name: "2"},
-	{youtube: "XDpoBc8t6gE, name: "3"},
-	{youtube: "hcuPAUdhJLg, name: "4"}
+	{youtube: "QEzaie2TtPY, name: ""},
+	{youtube: "Kxf96KNYZjs, name: ""},
+	{youtube: "XDpoBc8t6gE, name: ""},
+	{youtube: "hcuPAUdhJLg, name: ""},
 ];
 
 /*Random music order?*/
-var l_musicRandom = false;
+var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
 var l_musicVolume = 60;
 
 /*Enable custom messages?*/
-var l_messagesEnabled = true;
+var l_messagesEnabled = false;
 
 /*Enter your custom messages below*/
 var l_messages = [
