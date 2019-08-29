@@ -44,13 +44,15 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/glimmering.webm";
+var l_background = "backgrounds/videos/stalkertruck.webm";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/mes11.jpg"
+	"backgrounds/images/mgsbrit8.png",
+	"backgrounds/images/5542955-garrys-mod-hd-wallpapers.jpg"
+
 
 ];
 
@@ -60,7 +62,7 @@ var l_bgImagesRandom = true;
 /*(Image-background only)
 Delay between background images changes
 in milliseconds*/
-var l_bgImageDuration = 5000;
+var l_bgImageDuration = 1500;
 
 /*(Image-background only)
 Image background fade velocity
@@ -84,7 +86,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "w5x_9KEogM8", name: "United States National Anthem"},
+	{youtube: "QEzaie2TtPY, name: "1"},
+	{youtube: "Kxf96KNYZjs, name: "2"},
+	{youtube: "XDpoBc8t6gE, name: "3"},
+	{youtube: "hcuPAUdhJLg, name: "4"}
 ];
 
 /*Random music order?*/
@@ -92,16 +97,14 @@ var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 10;
+var l_musicVolume = 60;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Посетите наш дискорд для получения больше информации"
 ];
 
 /*Random message order?*/
