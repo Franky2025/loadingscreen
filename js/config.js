@@ -51,9 +51,7 @@ Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/mgsbrit8.png",
-	"backgrounds/images/5542955-garrys-mod-hd-wallpapers.jpg"
-
-
+	"backgrounds/images/5542955-garrys-mod-hd-wallpapers.jpg",
 ];
 
 /*Random background images order?*/
@@ -89,7 +87,7 @@ var l_musicPlaylist = [
 	{youtube: "QEzaie2TtPY, name: "1"},
 	{youtube: "Kxf96KNYZjs, name: "2"},
 	{youtube: "XDpoBc8t6gE, name: "3"},
-	{youtube: "hcuPAUdhJLg, name: "4"}
+	{youtube: "hcuPAUdhJLg, name: "4"},
 ];
 
 /*Random music order?*/
